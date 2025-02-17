@@ -1,1 +1,1 @@
-Charades Game By Devansh Rungta available her to download until I find a way to publish this to google play store
+Charades Game By Devansh Rungta available here for download until I find a way to publish this on google play store
