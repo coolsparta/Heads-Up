@@ -7,4 +7,4 @@ To go to the next word in the deck tilt your phone at 45 degree angle.
 
 You can create your own deck of words by clicking on the button "Create Your Own".
 
-The user defined set of words are stored in the temporary memory in form of arraylist.
+The user defined deck of words are stored in the temporary memory in form of ArrayList.
